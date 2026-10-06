@@ -36,11 +36,13 @@ label {
 
 #horas {
 
+    width: 150px;
     padding-left: 20px;
 
 }
 
 #informacion {
+    width: 150px;
 
     padding-left: 20px;
 
