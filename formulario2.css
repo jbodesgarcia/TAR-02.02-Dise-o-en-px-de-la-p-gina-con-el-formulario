@@ -1,0 +1,77 @@
+
+body {
+
+    background: linear-gradient(rgb(230, 216, 135), rgb(178, 167, 83));
+
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+
+}
+
+label {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#formulario {
+
+    background-color: rgb(154, 150, 92);
+
+    border: 4px solid #dded65;
+
+    height: 850px;
+
+    width: 350px;
+
+    padding: 20px;
+
+    position: absolute;
+
+    inset: 50px 100px 100px 20px;
+
+}
+
+#horas {
+
+    padding-left: 20px;
+
+}
+
+#informacion {
+
+    padding-left: 20px;
+
+    padding-right: 20px;
+
+}
+
+/* Radio y nombre juntos */
+
+
+/* Separación entre el radio y el texto */
+
+.radio {
+    margin-right: 5px;
+}
+
+.labelRadio {
+    display: inline-block;
+    width: 300px;
+}
+
+/* Separación entre cada opción */
+
+.checkbox {
+
+    margin-bottom: 10px;
+
+}
+
+.boton {
+
+    border: 2px solid rgb(184, 184, 88);
+
+}
