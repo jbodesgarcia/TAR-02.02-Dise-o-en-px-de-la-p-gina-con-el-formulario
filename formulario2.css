@@ -50,10 +50,8 @@ label {
 
 }
 
-/* Radio y nombre juntos */
 
 
-/* Separación entre el radio y el texto */
 
 .radio {
     margin-right: 5px;
@@ -64,7 +62,6 @@ label {
     width: 300px;
 }
 
-/* Separación entre cada opción */
 
 .checkbox {
 
@@ -74,6 +71,7 @@ label {
 
 .boton {
 
+    width: 50px;
     border: 2px solid rgb(184, 184, 88);
 
 }
